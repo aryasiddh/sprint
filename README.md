@@ -1,7 +1,7 @@
 # Sprint
 JBCN Code To Create Hackathon repository 
 
-##Foresee
+## Foresee
 
 The game foresees your next move... and you have to outsmart it.
 
