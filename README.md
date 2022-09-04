@@ -1,6 +1,10 @@
 # Sprint
 JBCN Code To Create Hackathon repository 
 
+##Foresee
+
+The game foresees your next move... and you have to outsmart it.
+
 ## Link To Project 
 
 https://scratch.mit.edu/projects/728050309/
