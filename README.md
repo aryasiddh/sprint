@@ -1,4 +1,4 @@
-# sprint
+# Sprint
 JBCN Code To Create Hackathon repository 
 
 ## Link To Project 
